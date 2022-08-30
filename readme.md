@@ -5,8 +5,8 @@ The student model and teacher model are applied VGG11 and VGG16 respectively. If
 
 |            | Accuracy(%) |
 |:----------:|:-----------:|
-|     KD     |    58.53    |
-| Without KD |    67.75    |
+| Without KD |     58.53   |
+|    KD      |    67.75    |
 
 References:  
 [1] https://nn.labml.ai/distillation/index.html  
