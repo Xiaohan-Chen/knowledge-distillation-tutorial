@@ -8,7 +8,7 @@ The student model and teacher model are applied VGG11 and VGG16 respectively. If
 |     KD     |    58.53    |
 | Without KD |    67.75    |
 
-References:
+References:  
 [1] https://nn.labml.ai/distillation/index.html  
-[2] https://github.com/peterliht/knowledge-distillation-pytorch.git
+[2] https://github.com/peterliht/knowledge-distillation-pytorch.git  
 [3] [Distilling the Knowledge in a Neural Network, Hinton et al., 2015.](https://arxiv.org/abs/1503.02531)
