@@ -1,4 +1,4 @@
-## Knowledge distillation tutorial
+## Knowledge distillation
 This is a simple tutorial for knowledge distillation (KD) (source: [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)). 
 
 The student model and teacher model are applied VGG11 and VGG16 respectively. If the VGG11 model was directly trained on the CIFAR10 dataset, the accuracy of the VGG11 can only achieve 58.53%. But if we introduced knowledge distillation, the accuracy achieved 67.75%, as shown below:
